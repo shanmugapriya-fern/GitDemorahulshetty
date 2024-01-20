@@ -16,6 +16,8 @@ public class armstrong {
 		if(arms==orginal)
 		{
 		System.out.println(" arms");
+		System.out.println(" ar");
+		System.out.println(" a");
 	
 		}
 		else {
